@@ -1,0 +1,5 @@
+{"timestamp": "2024-05-01T12:00:00Z", "level": "INFO", "source": "api", "message": "ok"}
+{"timestamp": "2024-05-01T12:00:00Z", "level": "INFO"
+[1, 2, 3]
+{"timestamp": "2024-05-01T12:00:00Z", "level": "INFO", "source": "api"}
+{"timestamp": "2024-05-01T12:30:00Z", "level": "ERROR", "source": "db", "message": "ok"}

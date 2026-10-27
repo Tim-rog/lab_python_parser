@@ -1,0 +1,4 @@
+{"timestamp": "2024-05-01T12:00:00Z", "level": "INFO", "source": "api", "message": "ok"}
+{"timestamp": "2024-05-01T13:00:00+03:00", "level": "ERROR", "source": "db", "message": "fail"}
+
+{"timestamp": "2024-05-01T09:30:00", "level": "CRITICAL", "source": "db", "message": ""}
