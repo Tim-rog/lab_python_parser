@@ -12,10 +12,9 @@ pip install -e ".[dev]"
 ## Запуск
 
 ```
-python -m streamstats analyze samples/ok.csv
-python -m streamstats analyze a.csv b.csv --format csv --output report.json
-python -m streamstats analyze samples/bad.jsonl --format jsonl --skip-invalid
-python -m streamstats --help
+python -m analyze samples/ok.csv
+python -m analyze a.csv b.csv --format csv --output report.json
+python -m analyze samples/bad.jsonl --format jsonl --skip-invalid
 ```
 
 Формат можно не указывать, в большенстве случаев он определится сам (`.csv`, `.jsonl`).
